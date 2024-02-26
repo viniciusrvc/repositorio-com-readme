@@ -5,7 +5,6 @@ Um projeto de teste com um arquivo README 🚀
 
 ## Tecnologias utilizadas
 - HTML
-- CS
 
 ## Como utilizar
 1 - Clone o PROJETO
